@@ -1,0 +1,13 @@
+{
+  "measured_on": "2026-10-28",
+  "prepared_on": "2026-11-05",
+  "source": "Resumo estático de artefatos de execuções do laboratório pessoal. IDs, URLs e identidades removidos da cópia pública.",
+  "live_telemetry": false,
+  "reports": 3,
+  "mode": "template_python_native",
+  "period": "2026-09",
+  "external_sends": 0,
+  "scheduled": false,
+  "llm_generation": false,
+  "idempotence_integration_test": "pass"
+}
